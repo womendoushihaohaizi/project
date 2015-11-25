@@ -1,6 +1,6 @@
 git is a distribute vesion control system
 git is free software
 git pclfdafadsfadfadf
-git fadfajdakdsagjsa
+git fadfajdakdsagjs
 afjdsalkfjsdjsadkgjfdjgksdgsd
-creating master
+creating master adn master
